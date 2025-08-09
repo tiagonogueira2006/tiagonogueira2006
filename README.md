@@ -12,7 +12,7 @@
 
 -Estudante do curso de  "Programação com Java e C#
 
--Natural de Ouro Branco
+
 
 
 
